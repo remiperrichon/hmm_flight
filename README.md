@@ -1,4 +1,4 @@
-# How to reproduce the results ?
+# How to reproduce the results?
 ### Step 1: Download raw data 
 
 - Go the NASA DASHlink project page: https://c3.ndc.nasa.gov/dashlink/projects/85/ (last check : 2023/10/27)
