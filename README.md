@@ -13,8 +13,8 @@ Create and specify a folder to store all the clean flights "clean_data" (2,868 f
 ### Step 3: Execute the several R scripts to reproduce the code 
 
 - "01_Vizu_NASA_sample.R" (draw a flight at random and plot it)
-- "02_HMM_uni_unique.R" (specify a flight and perform a HMM to segment 3 main flights phases : climb, cruise, approach)
-- "03_HMM_uni_unique_missing.R" (specify a flight and perform a HMM to segment 3 main flights phases : climb, cruise, approach. 500 points are randomly taken as missing).
+- "02_HMM_uni_unique.R" (specify a flight and perform a HMM to segment 3 main flight phases : climb, cruise, approach)
+- "03_HMM_uni_unique_missing.R" (specify a flight and perform a HMM to segment 3 main flight phases : climb, cruise, approach. 500 points are randomly taken as missing).
 - "04_HMM_multi_unique.R" (specify a flight and perform a HMM to segment 6 flight phases : taxi, takeoff, climb, cruise, approach, rollout).
 
 The "Fuzzy_logic.R" script has all the fuzzy logic functions that are needed.
